@@ -22,5 +22,7 @@ export * from "./statistic/statistic.custom.service";
 export * from "./block/block.service";
 export * from "./exchange/custom.service";
 export * from "./rest/custom.service";
+export * from "./service";
+export * from "./service-base";
 export * from "./appsetting";
 export * from "./excel/excel.service";

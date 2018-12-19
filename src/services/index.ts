@@ -36,6 +36,8 @@ export * from "./exchange/custom.service";
 
 export * from "./rest/custom.service";
 
+export * from "./service";
+export * from "./service-base";
 export * from "./appsetting";
 
 export * from "./excel/excel.service";
